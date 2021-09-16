@@ -1,6 +1,19 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+!Makefile
+# Unignore all dirs
+!*/
+
 *.html
 *.pptx
 *.pdf
 *.swp
 *.o
 *.mod
+*.txt
+*.tab
+*.png
+
